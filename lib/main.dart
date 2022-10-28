@@ -14,3 +14,5 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+//This is application which conatins structure of REST API for implementation any applications.
